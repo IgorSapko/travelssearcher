@@ -1,0 +1,321 @@
+ [{
+         "id": 1,
+         "title": "rest in Ukriane",
+         "subTitle": "welcome to Ukraine",
+         "location": "Ukraine",
+         "activity": {
+             "name": "horse riding",
+             "description": "ride horse, horse riding, Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam totam repellendus cumque quibusdam deleniti sed? Ratione delectus doloribus, eius temporibus sit fugiat amet eos aut laborum veritatis perferendis nesciunt quidem."
+         },
+         "freeDateFrom": "2021-07-25",
+         "freeDateTo": "2021-08-30",
+         "travellersQuantityLimit": 35,
+         "options": {
+             "tourWithGuide": "false",
+             "tourWithDriver": "true",
+             "foodAndDrink": "false",
+             "sportAndFitness": "true",
+             "art": "true",
+             "entertainment": "false",
+             "spa": "true",
+             "boatTour": "false",
+             "territiryExplortion": "false"
+         },
+         "price": 100,
+         "quantityReviews": 150,
+         "rating": 4,
+         "duration": 2,
+         "freeCansellation": "false",
+         "takingSafetyMeasures": "true",
+         "picture": "https://www.onetwotrip.com/ru/blog/wp-content/uploads/2016/10/time-to-travel.jpg"
+     },
+
+     {
+         "id": 2,
+         "title": "rest in USA",
+         "subTitle": "welcome to USA",
+         "location": "USA",
+         "activity": {
+             "name": "Biking",
+             "description": "ride a bike, ride bike, bike riding, Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam totam repellendus cumque quibusdam deleniti sed? Ratione delectus doloribus, eius temporibus sit fugiat amet eos aut laborum veritatis perferendis nesciunt quidem."
+         },
+         "freeDateFrom": "2021-07-15",
+         "freeDateTo": "2021-08-13",
+         "travellersQuantityLimit": 15,
+         "options": {
+             "tourWithGuide": "false",
+             "tourWithDriver": "false",
+             "foodAndDrink": "true",
+             "sportAndFitness": "false",
+             "art": "true",
+             "entertainment": "false",
+             "spa": "true",
+             "boatTour": "false",
+             "territiryExplortion": "false"
+         },
+         "price": 110,
+         "quantityReviews": 120,
+         "rating": 3,
+         "duration": 1,
+         "freeCansellation": "false",
+         "takingSafetyMeasures": "false",
+         "picture": "https://www.onetwotrip.com/ru/blog/wp-content/uploads/2016/10/time-to-travel.jpg"
+     },
+
+     {
+         "id": 3,
+         "title": "rest in Africa",
+         "subTitle": "welcome to Africa",
+         "location": "Africa",
+         "activity": {
+             "name": "skating",
+             "description": "skate , Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam totam repellendus cumque quibusdam deleniti sed? Ratione delectus doloribus, eius temporibus sit fugiat amet eos aut laborum veritatis perferendis nesciunt quidem."
+         },
+         "freeDateFrom": "2021-07-25",
+         "freeDateTo": "2021-08-30",
+         "travellersQuantityLimit": 12,
+         "options": {
+             "tourWithGuide": "false",
+             "tourWithDriver": "false",
+             "foodAndDrink": "false",
+             "sportAndFitness": "true",
+             "art": "true",
+             "entertainment": "false",
+             "spa": "true",
+             "boatTour": "true",
+             "territiryExplortion": "false"
+         },
+         "price": 90,
+         "quantityReviews": 160,
+         "rating": 2,
+         "duration": 11,
+         "freeCansellation": "true",
+         "takingSafetyMeasures": "false",
+         "picture": "https://www.onetwotrip.com/ru/blog/wp-content/uploads/2016/10/time-to-travel.jpg"
+     },
+
+     {
+         "id": 4,
+         "title": "rest in Europe",
+         "subTitle": "welcome to Europe",
+         "location": "Europe",
+         "activity": {
+             "name": "skiing",
+             "description": "go skiing, іLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam totam repellendus cumque quibusdam deleniti sed? Ratione delectus doloribus, eius temporibus sit fugiat amet eos aut laborum veritatis perferendis nesciunt quidem."
+         },
+         "freeDateFrom": "2021-06-25",
+         "freeDateTo": "2021-06-30",
+         "travellersQuantityLimit": 8,
+         "options": {
+             "tourWithGuide": "false",
+             "tourWithDriver": "true",
+             "foodAndDrink": "true",
+             "sportAndFitness": "false",
+             "art": "false",
+             "entertainment": "true",
+             "spa": "false",
+             "boatTour": "false",
+             "territiryExplortion": "true"
+         },
+         "price": 80,
+         "quantityReviews": 960,
+         "rating": 5,
+         "duration": 8,
+         "freeCansellation": "false",
+         "takingSafetyMeasures": "false",
+         "picture": "https://www.onetwotrip.com/ru/blog/wp-content/uploads/2016/10/time-to-travel.jpg"
+     },
+
+     {
+         "id": 5,
+         "title": "rest in Asia",
+         "subTitle": "welcome to Asia",
+         "location": "Asia",
+         "activity": {
+             "name": "skiing",
+             "description": "ride on an elephant, ride elephant, ride on elephant, іLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam totam repellendus cumque quibusdam deleniti sed? Ratione delectus doloribus, eius temporibus sit fugiat amet eos aut laborum veritatis perferendis nesciunt quidem."
+         },
+         "freeDateFrom": "2021-03-25",
+         "freeDateTo": "2021-04-30",
+         "travellersQuantityLimit": 25,
+         "options": {
+             "tourWithGuide": "true",
+             "tourWithDriver": "false",
+             "foodAndDrink": "false",
+             "sportAndFitness": "true",
+             "art": "true",
+             "entertainment": "true",
+             "spa": "false",
+             "boatTour": "false",
+             "territiryExplortion": "true"
+         },
+         "price": 180,
+         "quantityReviews": 960,
+         "rating": 1,
+         "duration": 9,
+         "freeCansellation": "true",
+         "takingSafetyMeasures": "false",
+         "picture": "https://www.onetwotrip.com/ru/blog/wp-content/uploads/2016/10/time-to-travel.jpg"
+     },
+
+     {
+         "id": 6,
+         "title": "rest in Australia",
+         "subTitle": "welcome to Australia",
+         "location": "Australia",
+         "activity": {
+             "name": "excursions",
+             "description": "excursions, іLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam totam repellendus cumque quibusdam deleniti sed? Ratione delectus doloribus, eius temporibus sit fugiat amet eos aut laborum veritatis perferendis nesciunt quidem."
+         },
+         "freeDateFrom": "2021-01-05",
+         "freeDateTo": "2021-02-13",
+         "travellersQuantityLimit": 1,
+         "options": {
+             "tourWithGuide": "true",
+             "tourWithDriver": "false",
+             "foodAndDrink": "true",
+             "sportAndFitness": "true",
+             "art": "true",
+             "entertainment": "false",
+             "spa": "true",
+             "boatTour": "true",
+             "territiryExplortion": "true"
+         },
+         "price": 80,
+         "quantityReviews": 60,
+         "rating": 5,
+         "duration": 3,
+         "freeCansellation": "false",
+         "takingSafetyMeasures": "true",
+         "picture": "https://www.onetwotrip.com/ru/blog/wp-content/uploads/2016/10/time-to-travel.jpg"
+     },
+
+     {
+         "id": 7,
+         "title": "rest in Asia",
+         "subTitle": "welcome to Asia",
+         "location": "Asia",
+         "activity": {
+             "name": "fly in a hot air balloon",
+             "description": "fly in a hot air balloon, flight, іLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam totam repellendus cumque quibusdam deleniti sed? Ratione delectus doloribus, eius temporibus sit fugiat amet eos aut laborum veritatis perferendis nesciunt quidem."
+         },
+         "freeDateFrom": "2022-07-25",
+         "freeDateTo": "2022-08-30",
+         "travellersQuantityLimit": 45,
+         "options": {
+             "tourWithGuide": "true",
+             "tourWithDriver": "false",
+             "foodAndDrink": "true",
+             "sportAndFitness": "false",
+             "art": "true",
+             "entertainment": "false",
+             "spa": "true",
+             "boatTour": "true",
+             "territiryExplortion": "false"
+         },
+         "price": 70,
+         "quantityReviews": 50,
+         "rating": 4,
+         "duration": 2,
+         "freeCansellation": "true",
+         "takingSafetyMeasures": "false",
+         "picture": "https://www.onetwotrip.com/ru/blog/wp-content/uploads/2016/10/time-to-travel.jpg"
+     },
+
+     {
+         "id": 8,
+         "title": "rest in Europe",
+         "subTitle": "welcome to Europe",
+
+         "location": "Europe",
+         "activity": {
+             "name": "skiing",
+             "description": "ride on an elephant, ride elephant, ride on elephant, іLorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam totam repellendus cumque quibusdam deleniti sed? Ratione delectus doloribus, eius temporibus sit fugiat amet eos aut laborum veritatis perferendis nesciunt quidem."
+         },
+         "freeDateFrom": "2023-07-25",
+         "freeDateTo": "2023-08-30",
+         "travellersQuantityLimit": 22,
+         "options": {
+             "tourWithGuide": "true",
+             "tourWithDriver": "true",
+             "foodAndDrink": "true",
+             "sportAndFitness": "false",
+             "art": "true",
+             "entertainment": "true",
+             "spa": "true",
+             "boatTour": "false",
+             "territiryExplortion": "true"
+         },
+         "price": 20,
+         "quantityReviews": 10,
+         "rating": 3,
+         "duration": 1,
+         "freeCansellation": "false",
+         "takingSafetyMeasures": "true",
+         "picture": "https://www.onetwotrip.com/ru/blog/wp-content/uploads/2016/10/time-to-travel.jpg"
+     },
+
+     {
+         "id": 9,
+         "title": "rest in USA",
+         "subTitle": "welcome to USA",
+         "location": "USA",
+         "activity": {
+             "name": "horse riding",
+             "description": "ride horse, horse riding, Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam totam repellendus cumque quibusdam deleniti sed? Ratione delectus doloribus, eius temporibus sit fugiat amet eos aut laborum veritatis perferendis nesciunt quidem."
+         },
+         "freeDateFrom": "2021-01-15",
+         "freeDateTo": "2021-03-23",
+         "travellersQuantityLimit": 10,
+         "options": {
+             "tourWithGuide": "true",
+             "tourWithDriver": "false",
+             "foodAndDrink": "true",
+             "sportAndFitness": "false",
+             "art": "false",
+             "entertainment": "false",
+             "spa": "true",
+             "boatTour": "true",
+             "territiryExplortion": "true"
+         },
+         "price": 10,
+         "quantityReviews": 20,
+         "rating": 2,
+         "duration": 2,
+         "freeCansellation": "false",
+         "takingSafetyMeasures": "true",
+         "picture": "https://www.onetwotrip.com/ru/blog/wp-content/uploads/2016/10/time-to-travel.jpg"
+     },
+
+     {
+         "id": 10,
+         "title": "rest in Africa",
+         "subTitle": "welcome to Africa",
+         "location": "Africa",
+         "activity": {
+             "name": "Biking",
+             "description": "ride a bike, ride bike, bike riding, Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam totam repellendus cumque quibusdam deleniti sed? Ratione delectus doloribus, eius temporibus sit fugiat amet eos aut laborum veritatis perferendis nesciunt quidem."
+         },
+         "freeDateFrom": "2021-03-11",
+         "freeDateTo": "2021-04-10",
+         "travellersQuantityLimit": 16,
+         "options": {
+             "tourWithGuide": "true",
+             "tourWithDriver": "false",
+             "foodAndDrink": "false",
+             "sportAndFitness": "false",
+             "art": "true",
+             "entertainment": "false",
+             "spa": "true",
+             "boatTour": "true",
+             "territiryExplortion": "true"
+         },
+         "price": 10,
+         "quantityReviews": 20,
+         "rating": 2,
+         "duration": 2,
+         "freeCansellation": "true",
+         "takingSafetyMeasures": "true",
+         "picture": "https://www.onetwotrip.com/ru/blog/wp-content/uploads/2016/10/time-to-travel.jpg"
+     }
+ ]

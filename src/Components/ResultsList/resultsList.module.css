@@ -1,0 +1,59 @@
+.resultsList {
+    display: flex;
+    flex-wrap: wrap;
+list-style: none;
+}
+
+.resultsListItem{
+    display: flex;
+    flex-wrap: wrap;
+    width: 450px;
+    color: rgba(1, 1, 128, 0.877)
+}
+.activityDescr {
+    display: inline-block;
+    height: fit-content;
+    width: 300px;
+}
+
+.activityPrice {
+    display: inline-block;
+    height: fit-content;
+    font-size: 22px;
+    font-weight: 700;
+    width: 40px;
+}
+.picture{
+    width: 120px;
+    height: 200px;
+    background-size:inherit;
+    border-bottom-left-radius: 40px;
+    border-top-left-radius: 40px;
+}
+
+.activityName{
+    display: inline-block;
+    width: 200px;
+    height: fit-content;
+}
+
+.ratingResult {
+	width: 265px;
+	margin: 0 auto;
+}
+.ratingResult span {
+	padding: 0;
+	font-size: 32px;
+	margin: 0 3px;
+	line-height: 1;
+	color: lightgrey;
+	text-shadow: 1px 1px #bbb;
+}
+.ratingResult > span:before {
+	content: '★';
+}
+.ratingResult > span.active {
+	color: gold;
+	text-shadow: 1px 1px #c60;
+}
+

@@ -1,0 +1,126 @@
+.form {
+    display: block;
+    align-items: center;
+    padding: 10px;
+    background-image: url(https://img4.badfon.ru/wallpaper/big/d/96/podsolnuh-priroda-fon-3013.jpg);
+    background-size: cover;
+}
+
+.label {
+    display: inline-block;
+    color: blue;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: capitalize;
+    background-color: #fff;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    position: relative;
+}
+
+.input {
+    display: flex;
+    border: none;
+}
+
+.input:hover {
+    outline: blue;
+    outline-style: solid;
+}
+
+.input[type="date"]::-webkit-datetime-edit-day-field {
+    display: none
+}
+
+.input[type="date"]::-webkit-datetime-edit-month-field {
+    display: none
+}
+
+.input[type="date"]::-webkit-datetime-edit-year-field {
+    display: none
+}
+
+.input[type="date"]::-webkit-datetime-edit-text {
+    display: none
+}
+
+.input[type="date"]::-webkit-inner-spin-button {
+    display: none
+}
+
+.input[type="date"]::-webkit-calendar-picker-indicator {
+    width: 100%;
+    height: 14px;
+    background: transparent;
+}
+
+.inputDescription:hover {
+    cursor: pointer;
+    outline: blue;
+    outline-style: solid;
+}
+
+button {
+    width: 44px;
+    height: 44px;
+    justify-content: center;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 22px;
+    margin-left: 20px;
+}
+
+button:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.inputDescription {
+    display: block;
+}
+
+.checboxList {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 166px;
+    width: 640px;
+    background-color: #fff;
+    border-bottom-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-right-radius: 70px;
+    margin-left: 240px;
+    padding-top: 20px;
+}
+
+.checboxListItem:not(:last-child) {
+    margin-bottom: 30px;
+}
+
+.labelList {
+    list-style: none;
+    display: flex;
+}
+
+.labelList :first-child>.label {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px
+}
+
+.labelList :nth-last-child(2)>.label {
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px
+}
+
+.datesPlaceholder {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 13.3333px;
+    color: rgb(59, 59, 59);
+    position: absolute;
+    top: 12px;
+    left: 22px;
+}
